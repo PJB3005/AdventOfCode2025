@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2e69fa5-e25f-4ffc-a719-1172fb840124" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2025.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shared/Input.cs" afterDir="false" />
-    </list>
+    <list default="true" id="c2e69fa5-e25f-4ffc-a719-1172fb840124" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:PJB3005/AdventOfCode2025.git",
+    "accountId": "fff6763f-ee28-46c0-83e5-7b7b51d4e904"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Immediate Window" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1e8c32362ff486e4e342292ccce957781165d4f6305c795c1d6b1b473e4c0a3/Parallel.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/Day01.Two/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day01/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -131,16 +134,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765057013607</updated>
-      <workItem from="1765057014621" duration="5084000" />
+      <workItem from="1765057014621" duration="5540000" />
     </task>
+    <task id="LOCAL-00001" summary="Day 1">
+      <option name="closed" value="true" />
+      <created>1765062339904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765062339904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
