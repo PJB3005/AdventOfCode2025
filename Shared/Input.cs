@@ -4,8 +4,17 @@ public static class Input
 {
     public static string Get(string name)
     {
-        var path = Path.Combine(GetSolutionDir(), "Inputs", $"{name}.txt");
-        return File.ReadAllText(path);
+        return File.ReadAllText(GetPath(name));
+    }
+
+    public static StreamReader GetReader(string name)
+    {
+        return new StreamReader(GetPath(name));
+    }
+
+    private static string GetPath(string name)
+    {
+        return Path.Combine(GetSolutionDir(), "Inputs", $"{name}.txt");
     }
 
     private static string GetSolutionDir()
